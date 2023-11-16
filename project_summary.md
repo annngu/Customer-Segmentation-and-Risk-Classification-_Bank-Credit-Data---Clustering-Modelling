@@ -1,6 +1,5 @@
 
 1.Bivariate and Univariate Analysis:
-
 The project starts with exploratory data analysis, which includes both bivariate and univariate methodologies. This entails investigating correlations between variables and evaluating individual variables in order to discover patterns and trends in the data.
 
 2.Data Cleaning:
